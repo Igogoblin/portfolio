@@ -17,7 +17,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contacts" element={<Contacts />} />
-          <Route path="/project" element={<ProjectPage />} />
+          <Route path="/project/:id" element={<ProjectPage />} />
         </Routes>
         <Footer />
         {/* <script src="./js/main.js"></script> */}

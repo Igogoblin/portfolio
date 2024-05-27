@@ -12,6 +12,7 @@ const Projects = () => {
               // {...project}
               title={project.title}
               img={project.img}
+              index={index}
             />
           ))}
         </ul>
