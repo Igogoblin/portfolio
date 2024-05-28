@@ -1,7 +1,7 @@
 import "./style.css";
 import vk from "./../../img/icons/vk.svg";
 import inst from "./../../img/icons/instagram.svg";
-import telegram from "./../../img/icons/twitter.svg";
+import telegram from "../../img/icons/telegram.svg";
 import github from "./../../img/icons/gitHub.svg";
 import linkedin from "./../../img/icons/linkedIn.svg";
 const Footer = () => {
@@ -21,23 +21,23 @@ const Footer = () => {
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://t.me/igogoblin">
                 <img src={telegram} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="https://github.com/igogoblin">
                 <img src={github} alt="Link" />
               </a>
             </li>
             <li className="social__item">
-              <a href="#!">
+              <a href="www.linkedin.com/in/igor-sk">
                 <img src={linkedin} alt="Link" />
               </a>
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2022 frontend-dev.com</p>
+            <p>© 2024 frontend-dev.com</p>
           </div>
         </div>
       </div>

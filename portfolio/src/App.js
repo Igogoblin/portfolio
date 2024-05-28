@@ -20,7 +20,6 @@ function App() {
           <Route path="/project/:id" element={<ProjectPage />} />
         </Routes>
         <Footer />
-        {/* <script src="./js/main.js"></script> */}
       </BrowserRouter>
     </div>
   );

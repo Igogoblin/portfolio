@@ -10,7 +10,8 @@ const Navbar = () => {
       <div className="container">
         <div className="nav-row">
           <NavLink to={"/"} className="logo">
-            <strong>Freelancer</strong> portfolio
+            {/* <strong>Freelancer</strong> portfolio */}
+            portfolio
           </NavLink>
 
           <BtnDarkMode />
