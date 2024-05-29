@@ -1,8 +1,6 @@
 import { NavLink } from "react-router-dom";
 import "./style.css";
-// import { projects } from "../../helpers/projectList";
-// import project01 from "./../../img/project01.png";
-// import project01 from "../../img/projects/01.jpg";
+
 const Project = ({ title, img, index }) => {
   return (
     <NavLink to={`/project/${index}`}>

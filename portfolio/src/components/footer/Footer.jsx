@@ -1,5 +1,5 @@
 import "./style.css";
-import vk from "./../../img/icons/vk.svg";
+// import vk from "./../../img/icons/vk.svg";
 import inst from "./../../img/icons/instagram.svg";
 import telegram from "../../img/icons/telegram.svg";
 import github from "./../../img/icons/gitHub.svg";
@@ -10,13 +10,13 @@ const Footer = () => {
       <div className="container">
         <div className="footer__wrapper">
           <ul className="social">
-            <li className="social__item">
+            {/* <li className="social__item">
               <a href="#!">
                 <img src={vk} alt="Link" />
               </a>
-            </li>
+            </li> */}
             <li className="social__item">
-              <a href="#!">
+              <a href="https://www.instagram.com/igogoblin?utm_source=qr&igsh=ZWMwbDdiN2kxOHNn">
                 <img src={inst} alt="Link" />
               </a>
             </li>
@@ -37,7 +37,7 @@ const Footer = () => {
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2024 frontend-dev.com</p>
+            <p>© 2024 Skavysh Ihar</p>
           </div>
         </div>
       </div>
