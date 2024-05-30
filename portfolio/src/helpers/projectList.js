@@ -16,7 +16,7 @@ const projects = [
     title: "Gaming streaming portal",
     img: project01,
     imgBig: project01Big,
-    skills: "React, Node.js, MongoDB",
+    skills: "React",
     link: "https://github.com",
   },
   {
