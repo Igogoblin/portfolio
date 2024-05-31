@@ -25,3 +25,9 @@
 .copyright p + p {
   margin-top: 0.5em;
 }
+.social__item:nth-child(2) {
+  width: 45px;
+  height: 45px;
+  background-color: white;
+  border-radius: 50%;
+}

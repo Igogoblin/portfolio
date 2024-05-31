@@ -10,8 +10,8 @@ const Home = () => {
             <li className="content-list__item">
               <h2 className="title-2">Frontend</h2>
               <p>
-                JavaScript, TypeScript, ReactJS, Redux toolkit, HTML, CSS, NPM,
-                BootStrap, TailwindCSS, StyledComponents
+                JavaScript, ReactJS, Redux toolkit, TypeScript, HTML, CSS, NPM,
+                StyledComponents, TailwindCSS, BootStrap
               </p>
             </li>
             {/* <li className="content-list__item">
