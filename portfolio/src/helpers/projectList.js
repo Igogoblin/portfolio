@@ -37,27 +37,27 @@ const projects = [
     link: "https://github.com/Igogoblin/pyramid",
     deploy: "https://igogoblin.github.io/pyramid/",
   },
-  {
-    title: "Dating app",
-    img: project04,
-    imgBig: project04Big,
-    skills: "React, Node.js, MongoDB",
-    link: "https://github.com",
-  },
-  {
-    title: "Landing",
-    img: project05,
-    imgBig: project05Big,
-    skills: "React, Node.js, MongoDB",
-    link: "https://github.com",
-  },
-  {
-    title: "Gaming community",
-    img: project06,
-    imgBig: project06Big,
-    skills: "React, Node.js, MongoDB",
-    link: "https://github.com",
-  },
+  // {
+  //   title: "Dating app",
+  //   img: project04,
+  //   imgBig: project04Big,
+  //   skills: "React, Node.js, MongoDB",
+  //   link: "https://github.com",
+  // },
+  // {
+  //   title: "Landing",
+  //   img: project05,
+  //   imgBig: project05Big,
+  //   skills: "React, Node.js, MongoDB",
+  //   link: "https://github.com",
+  // },
+  // {
+  //   title: "Gaming community",
+  //   img: project06,
+  //   imgBig: project06Big,
+  //   skills: "React, Node.js, MongoDB",
+  //   link: "https://github.com",
+  // },
 ];
 
 // export default projects;
