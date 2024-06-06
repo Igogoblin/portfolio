@@ -1,15 +1,15 @@
 import project01 from "../img/projects/01.jpg"; // add right image
 import project02 from "../img/projects/02.PNG";
 import project03 from "../img/projects/03.PNG";
-import project04 from "../img/projects/04.jpg";
-import project05 from "../img/projects/05.jpg";
-import project06 from "../img/projects/06.jpg";
+// import project04 from "../img/projects/04.jpg";
+// import project05 from "../img/projects/05.jpg";
+// import project06 from "../img/projects/06.jpg";
 import project01Big from "../img/projects/01-big.jpg";
 import project02Big from "../img/projects/02-big.PNG";
 import project03Big from "../img/projects/03-big.PNG";
-import project04Big from "../img/projects/04-big.jpg";
-import project05Big from "../img/projects/05-big.jpg";
-import project06Big from "../img/projects/06-big.jpg";
+// import project04Big from "../img/projects/04-big.jpg";
+// import project05Big from "../img/projects/05-big.jpg";
+// import project06Big from "../img/projects/06-big.jpg";
 
 const projects = [
   {
@@ -22,7 +22,7 @@ const projects = [
     deploy: "https://illustrious-gelato-478c12.netlify.app/",
   },
   {
-    title: "Organaizer app",
+    title: "Organizer - a simple app for composing everyday tasks",
     img: project02,
     imgBig: project02Big,
     skills: "Vite, React, Redux toolkit, styled-modules, Git",
