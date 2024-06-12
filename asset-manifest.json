@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1fee777f.css",
-    "main.js": "/portfolio/static/js/main.5bf0a491.js",
+    "main.js": "/portfolio/static/js/main.d3baa455.js",
     "static/media/03-big.PNG": "/portfolio/static/media/03-big.a001096ea8744deeb303.PNG",
-    "static/media/01-big.jpg": "/portfolio/static/media/01-big.ecb03349664096d93b17.jpg",
     "static/media/03.PNG": "/portfolio/static/media/03.0203ef18d5ed3a4e3880.PNG",
-    "static/media/01.jpg": "/portfolio/static/media/01.793b5447d182a00fa739.jpg",
+    "static/media/01.PNG": "/portfolio/static/media/01.904849a8014081fca9e4.PNG",
+    "static/media/01-big.PNG": "/portfolio/static/media/01-big.64b3d9beff6dffbccafe.PNG",
     "static/media/02.PNG": "/portfolio/static/media/02.effce7621765f6d91268.PNG",
     "static/media/02-big.PNG": "/portfolio/static/media/02-big.6c01f7ec6496f188f7fa.PNG",
     "static/media/Codewars.PNG": "/portfolio/static/media/Codewars.b22b91f0a8c10e91c93f.PNG",
@@ -21,10 +21,10 @@
     "static/media/linkedIn.svg": "/portfolio/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
     "index.html": "/portfolio/index.html",
     "main.1fee777f.css.map": "/portfolio/static/css/main.1fee777f.css.map",
-    "main.5bf0a491.js.map": "/portfolio/static/js/main.5bf0a491.js.map"
+    "main.d3baa455.js.map": "/portfolio/static/js/main.d3baa455.js.map"
   },
   "entrypoints": [
     "static/css/main.1fee777f.css",
-    "static/js/main.5bf0a491.js"
+    "static/js/main.d3baa455.js"
   ]
 }
