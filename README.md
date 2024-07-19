@@ -1,4 +1,4 @@
 # portfolio
 
-## deploy
+## Deploy:
 https://igogoblin.github.io/portfolio/
