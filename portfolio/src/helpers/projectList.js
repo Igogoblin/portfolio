@@ -10,8 +10,19 @@ import project03Big from "../img/projects/03-big.PNG";
 // import project04Big from "../img/projects/04-big.jpg";
 // import project05Big from "../img/projects/05-big.jpg";
 // import project06Big from "../img/projects/06-big.jpg";
+import project00 from "../img/projects/00.PNG";
+import project00Big from "../img/projects/00-big.PNG";
 
 const projects = [
+  {
+    title: "portfolio",
+    img: project00,
+    imgBig: project00Big,
+    skills:
+      "React, TypeScript, Redux toolkit, styled-components, Git, Netlify, Jira",
+    link: "https://github.com/Igogoblin/Portfolio",
+    deploy: "https://ivanshabanistan.netlify.app/contacts",
+  },
   {
     title: "TechLab - portal for IT courses",
     img: project01,
