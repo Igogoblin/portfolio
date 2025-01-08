@@ -20,7 +20,7 @@ const projects = [
     imgBig: project00Big,
     skills:
       "React, TypeScript, Redux toolkit, styled-components, Git, Netlify, Jira",
-    link: "https://github.com/Igogoblin/Portfolio",
+    link: "https://github.com/Igogoblin/se",
     deploy: "https://ivanshabanistan.netlify.app/contacts",
   },
   {
